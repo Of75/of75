@@ -1,5 +1,5 @@
-<h1 align="center">Hey, I'm <span style="color:#f97316;">Of75</span> 👋</h1>
-<h3 align="center">aka "15" – Scripter, Developer, and Roblox Creator</h3>
+<h1 align="center">Hey, I'm Of75 aka "15" </h1>
+<h3 align="center">Developer • Roblox Scripter • Penetration Tester</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,lua,css&perline=3" alt="skills" />
@@ -7,45 +7,50 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🧠 I code in **Python**, **CSS**, and **Luau (Roblox Lua)**
-- 🔁 I build **custom Roblox scripts**, systems, and automation
-- 🎮 Focused on **modern Roblox game development** and tooling
-- 🌐 Always improving and exploring new scripting techniques
-- 🧰 I love clean, efficient code and pushing boundaries
+-  I code with **Python**, **Luau (Roblox Lua)**, and **CSS**
+-  I create custom **Roblox game scripts**, UIs, and tools
+-  I perform **ethical penetration testing** and develop security tools
+-  I rat skids occasionally
 
 ---
 
-## 🔧 Tools & Technologies
+##  Tools & Languages
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Luau-00bfff?style=for-the-badge&logo=roblox&logoColor=white" alt="Luau Badge"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
+  <img src="https://img.shields.io/badge/Luau-00bfff?style=for-the-badge&logo=roblox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Security-Ethical%20Hacking-blueviolet?style=for-the-badge"/>
 </p>
 
 ---
 
-## 📫 Contact
+## Pen Testing / Security Projects
 
-Want to work together or hire me for scripting?
+-  Custom Python-based test clients for C2 simulation
+-  Tools for sandbox detection, binary packing, and evasion
+-  VirusTotal scans for research and evasion pattern testing
+
+###  Example Scan Result (VT)
+
+![VirusTotal](./e477f6af-b1af-4e9b-8132-29676c87e9f9.png)
+
+>  Detected as clean during static test — used for analysis of AV detection behavior. *For educational use only.*
+
+---
+
+##  Contact Me
+
+If you're hiring a **scripter**, looking for a **rat tool**, or want help with ratting or lua coding.:
 
 **Discord:** `of75 / 185410698124197888`
 
 ---
 
-## ⚙️ GitHub Stats
+##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=of75&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=of75&show_icons=true&theme=radical" />
 </p>
-
----
-
-## 📁 Featured Projects
-
-```diff
-+ Roblox Scripts for Automation
-+ UI / UX Enhancements for Roblox Games
-+ Game Tools, Anti-Cheat, and Developer Utilities
