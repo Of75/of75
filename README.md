@@ -1,15 +1,51 @@
-<h1 align="center">Hi I'm of75</h1>
-<h3 align="center">A dumbass from turkey</h3>
+<h1 align="center">Hey, I'm <span style="color:#f97316;">Of75</span> 👋</h1>
+<h3 align="center">aka "15" – Scripter, Developer, and Roblox Creator</h3>
 
-- I’m currently working on **halo dahood**
-
-- Ask me about **luea**
-
-- Fun fact **I sleep 14 hours a day**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,lua,css&perline=3" alt="skills" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 👨‍💻 About Me
+
+- 🧠 I code in **Python**, **CSS**, and **Luau (Roblox Lua)**
+- 🔁 I build **custom Roblox scripts**, systems, and automation
+- 🎮 Focused on **modern Roblox game development** and tooling
+- 🌐 Always improving and exploring new scripting techniques
+- 🧰 I love clean, efficient code and pushing boundaries
+
+---
+
+## 🔧 Tools & Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Luau-00bfff?style=for-the-badge&logo=roblox&logoColor=white" alt="Luau Badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
+</p>
+
+---
+
+## 📫 Contact
+
+Want to work together or hire me for scripting?
+
+**Discord:** `of75 / 185410698124197888`
+
+---
+
+## ⚙️ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=of75&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+## 📁 Featured Projects
+
+```diff
++ Roblox Scripts for Automation
++ UI / UX Enhancements for Roblox Games
++ Game Tools, Anti-Cheat, and Developer Utilities
