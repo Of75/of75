@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Of75 aka "15" </h1>
-<h3 align="center">Developer • Roblox Scripter • Penetration Tester</h3>
+<h3 align="center">Developer • Roblox scripter • Python dev</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,lua,css&perline=3" alt="skills" />
@@ -9,10 +9,9 @@
 
 ##  About Me
 
--  I code with **Python**, **Luau (Roblox Lua)**, and **CSS**
--  I create custom **Roblox game scripts**, UIs, and tools
--  I perform **ethical penetration testing** and develop security tools
--  I rat skids occasionally
+-  I code with **Python**, **Luau**, and **CSS (rookie rn)**
+-  I create custom game script in lua (for executors)
+-  I make tools for ratting or shit like that 
 
 ---
 
@@ -43,7 +42,7 @@
 
 ##  Contact Me
 
-If you're hiring a **scripter**, looking for a **rat tool**, or want help with ratting or lua coding.:
+If you're hiring a scripter and looking for ratting bums.:
 
 **Discord:** `of75 / 185410698124197888`
 
