@@ -9,7 +9,7 @@
 
 ##  About Me
 
--  I code with **Python**, **Luau**, and **CSS (rookie rn)**
+-  I code with **Python**, **Luau**, and **CSS (rookie at it css rn)**
 -  I create custom game script in lua (for executors)
 -  I make tools for ratting or shit like that 
 
